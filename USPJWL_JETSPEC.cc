@@ -38,11 +38,11 @@ namespace Rivet {
   int pTRange(double jetpT);
 
 
-  class RAA_ATLAS : public Analysis {
+  class USPJWL_JETSPEC : public Analysis {
   public:
 
     /// Constructor
-    DEFAULT_RIVET_ANALYSIS_CTOR(RAA_ATLAS);
+    DEFAULT_RIVET_ANALYSIS_CTOR(USPJWL_JETSPEC);
 
       // Necessary functions
 
@@ -377,7 +377,7 @@ namespace Rivet {
 
 
 
-  DECLARE_RIVET_PLUGIN(RAA_ATLAS);
+  DECLARE_RIVET_PLUGIN(USPJWL_JETSPEC);
 
 
 

@@ -21,11 +21,11 @@ namespace Rivet {
   // Declaration of functions
 
 
-  class JWLHYDRO_SUBFRAG : public Analysis {
+  class USPJWL_SUBFRAG : public Analysis {
   public:
 
     /// Constructor
-    DEFAULT_RIVET_ANALYSIS_CTOR(JWLHYDRO_SUBFRAG);
+    DEFAULT_RIVET_ANALYSIS_CTOR(USPJWL_SUBFRAG);
 
     void init() {
 
@@ -166,7 +166,7 @@ namespace Rivet {
 
 
 
-  DECLARE_RIVET_PLUGIN(JWLHYDRO_SUBFRAG);
+  DECLARE_RIVET_PLUGIN(USPJWL_SUBFRAG);
 
 
 

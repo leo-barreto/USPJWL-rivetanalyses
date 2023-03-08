@@ -20,11 +20,11 @@
 
 namespace Rivet {
 
-  class EXTRA : public Analysis {
+  class USPJWL_EXTRASPEC : public Analysis {
   public:
 
     /// Constructor
-    DEFAULT_RIVET_ANALYSIS_CTOR(EXTRA);
+    DEFAULT_RIVET_ANALYSIS_CTOR(USPJWL_EXTRASPEC);
 
 
     void init() {
@@ -136,6 +136,6 @@ namespace Rivet {
 
 
 
-  DECLARE_RIVET_PLUGIN(EXTRA);
+  DECLARE_RIVET_PLUGIN(USPJWL_EXTRASPEC);
 
 }
