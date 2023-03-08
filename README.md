@@ -14,5 +14,5 @@ They were intended for JEWEL coupled with realistic hydro, but they will work fo
  - Dijet yield $x_J$: USPJWL_JETSPEC.
  - Jet azimuthal distribution (for $v_n$): USPJWL_PHIDIST
  - Leading/inclusive subjet fragmentation: USPJWL_SUBFRAG
- - Jet mass $M_{jet}$: USPJWL_JET_MASS.
- - Semi-inclusive hadron+jet correlation: USPJWL_HJET.
+ - Jet mass $M_{jet}$ : USPJWL_JET_MASS.
+ - Semi-inclusive hadron+jet correlation spectrum: USPJWL_HJET.
