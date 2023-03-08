@@ -25,11 +25,11 @@ namespace Rivet {
   int pTRange(double jetpT);
 
 
-  class PHI_PLANE : public Analysis {
+  class USPJWL_PHIDIST : public Analysis {
   public:
 
     /// Constructor
-    DEFAULT_RIVET_ANALYSIS_CTOR(PHI_PLANE);
+    DEFAULT_RIVET_ANALYSIS_CTOR(USPJWL_PHIDIST);
 
 
     int pTRange(double jetpT) {
@@ -171,7 +171,7 @@ namespace Rivet {
 
 
 
-  DECLARE_RIVET_PLUGIN(PHI_PLANE);
+  DECLARE_RIVET_PLUGIN(USPJWL_PHIDIST);
 
 
 
