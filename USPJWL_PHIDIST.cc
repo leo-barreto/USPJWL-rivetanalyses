@@ -87,7 +87,7 @@ namespace Rivet {
       book(_hist_9, "316_398_phi_R" + RJETS, 64, 0., 2 * M_PI);
       book(_hist_10, "398_500_phi_R" + RJETS, 64, 0., 2 * M_PI);
       book(_hist_11, "500_650_phi_R" + RJETS, 64, 0., 2 * M_PI);
-      book(_hist_12, "650_100_phi_R" + RJETS, 64, 0., 2 * M_PI);
+      book(_hist_12, "650_1000_phi_R" + RJETS, 64, 0., 2 * M_PI);
     }
 
 
